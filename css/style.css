@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: danbury;
+    src: url(../danbuty-caps/DanburyCaps_PERSONAL_USE_ONLY.otf);
+
+}
+
+.fondo-nav {
+    background-image: linear-gradient(to bottom, #361476, #2d1067, #250d58, #1e0949, #17043b) !important;
+}
+
+.logo {
+    height: 75px;
+    padding: 0 40px;
+    line-height: 80px;
+
+}
+
+.titulo {
+    border: ridge;
+    background-image: linear-gradient(to bottom, #361476, #2d1067, #250d58, #1e0949, #17043b);
+    color: white;
+    max-width: 100%;
+    font-style: italic;
+    text-align: center;
+    font-family: danbury;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+
+}
+
+h3 {
+    font-style: italic;
+    text-align: center;
+    font-family: danbury;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+
+}
+
+.text-center {
+    border: ridge;
+    background-image: linear-gradient(to bottom, #361476, #2d1067, #250d58, #1e0949, #17043b);
+    font-family: danbury;
+    color: rgb(255, 255, 255);
+    margin: 30px 30px;
+    padding: 25px;
+}
+
+.comprarButton {
+    padding: 30px 35px;
+    margin-left: 1250px;
+    margin-bottom: 35px;
+
+}
+
+.pie-pagina {
+    width: 100%;
+    background-image: linear-gradient(to bottom, #361476, #2d1067, #250d58, #1e0949, #17043b);
+
+    min-height: 100%;
+}
+
+.pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    font: sans-serif;
+    text-align: center;
+}
+
+.pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pie-pagina .grupo-1 .box figure img {
+    width: 250px;
+}
+
+.pie-pagina .grupo-1 .box h2 {
+    color: white;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.pie-pagina .grupo-1 .box p {
+    color: #efefef;
+    margin-bottom: 10px;
+}
+
+.pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    margin-right: 10px;
+    
+    text-align: center;
+    margin: 15px 15px;
+    transition: all 0.5s ease;
+}
+
+.red-social {
+    transform: scale(1.05);
+    transition: all 0.3s ease 0s
+}

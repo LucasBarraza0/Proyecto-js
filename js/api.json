@@ -1,0 +1,55 @@
+[{
+        "precio": 32000,
+        "id": 1,
+        "title": "Nike Air force 1",
+        "imagen": "./img/nike-air-force-1.webp"
+    },
+    {
+        "precio": 28000,
+        "id": 2,
+        "title": "Nike Air Huarache",
+        "imagen": "./img/nike-air-huarache-next-nature-2.webp"
+    },
+    {
+        "precio": 31000,
+        "id": 3,
+        "title": "Nike Dunk Low",
+        "imagen": "./img/nike-dunk-low.webp..webp..webp"
+    },
+    {
+        "precio": "$ 32500",
+        "id": 4,
+        "title": "Adidas Forum 84 Low",
+        "imagen": "./img/Adidas-forum.webp"
+    },
+    {
+        "precio":32000,
+        "id": 5,
+        "title": "Nike Blazer High",
+        "imagen": "./img/Nike-Blazer.webp"
+    },
+    {
+        "precio": 30000,
+        "id": 6,
+        "title": "Adidas Superstar",
+        "imagen": "./img/adidas-superstar.jpg"
+    },
+    {
+        "precio":45000,
+        "id": 7,
+        "title": "Jordan Retro 1",
+        "imagen": "./img/jordan-1.jpg"
+    },
+    {
+        "precio": 21000,
+        "id": 8,
+        "title": "Vans Old Skool",
+        "imagen": "./img/Vans-old-skool.webp"
+    },
+    {
+        "precio": 55000,
+        "id": 9,
+        "title": "Jordan Retro 4",
+        "imagen": "./img/jordan-retro-4.webp"
+    }
+]
